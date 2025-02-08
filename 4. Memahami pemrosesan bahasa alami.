@@ -1,0 +1,22 @@
+Pemrosesan bahasa alami (NLP) adalah area AI yang berkaitan dengan pembuatan perangkat lunak yang memahami bahasa tertulis dan lisan.
+
+NLP memungkinkan Anda membuat perangkat lunak yang dapat:
+
+Menganalisis dan menafsirkan teks dalam dokumen, pesan surel, dan sumber lainnya.
+Menafsirkan bahasa lisan, dan menggabungkan respons ucapan.
+Menerjemahkan frasa lisan atau tertulis secara otomatis di antara bahasa.
+Menafsirkan perintah dan menentukan tindakan yang tepat.
+Misalnya, Starship Commander adalah game realitas virtual (VR) dari Human Interact yang berlangsung di dunia fiksi ilmiah. Game ini menggunakan pemrosesan bahasa alami untuk memungkinkan pemain mengontrol narasi serta berinteraksi dengan karakter dalam game dan sistem starship.
+
+Tonton video berikut untuk mempelajari selengkapnya.
+
+Pemrosesan bahasa alami di Microsoft Azure
+Anda dapat menggunakan Bahasa Azure AI Microsoft untuk membangun solusi pemrosesan bahasa alami. Beberapa fitur Bahasa Azure AI termasuk memahami dan menganalisis teks, melatih model bahasa percakapan yang dapat memahami perintah lisan atau berbasis teks, dan membangun aplikasi cerdas.
+
+Azure AI Speech Microsoft adalah layanan lain yang dapat digunakan untuk membangun solusi pemrosesan bahasa alami. Fitur Azure AI Speech mencakup pengenalan ucapan dan sintesis, terjemahan real time, transkripsi percakapan, dan banyak lagi.
+
+Penerjemah Azure AI Microsoft menggunakan model Neural Machine Translation (NMT) untuk terjemahan, yang menganalisis konteks semantik teks dan merender terjemahan yang lebih akurat dan lengkap sebagai hasilnya.
+
+Anda dapat menjelajahi fitur Bahasa Azure AI di fitur Azure Language Studio dan Azure AI Speech di Azure Speech Studio. Fitur layanan tersedia untuk digunakan dan diuji di studio dan bahasa pemrograman lainnya.
+
+Unit berikutnya: Memahami kecerdasan dokumen dan penambangan pengetahuan
