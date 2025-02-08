@@ -1,0 +1,73 @@
+1. Anda ingin membuat model untuk memprediksi penjualan es krim berdasarkan data historis yang mencakup total penjualan es krim harian dan pengukuran cuaca. Layanan Azure mana yang harus Anda gunakan?                                                                                                                     
+     Pembelajaran Mesin Azure
+
+Azure AI Bot Service
+
+Azure AI Language
+Untuk membuat model prediksi penjualan es krim berdasarkan data historis yang mencakup total penjualan harian dan pengukuran cuaca, layanan Azure yang paling sesuai adalah Azure Machine Learning (Pembelajaran Mesin Azure).
+
+Mengapa Azure Machine Learning?
+Azure Machine Learning adalah layanan cloud yang dirancang untuk membangun, melatih, dan menerapkan model machine learning. Dengan layanan ini, Anda dapat:
+
+Mengimpor dan membersihkan data: Anda dapat menggunakan data historis penjualan es krim dan data cuaca.
+
+Membangun model: Membuat model prediktif menggunakan algoritma machine learning seperti regresi linier, decision tree, atau algoritma lain yang sesuai.
+
+Melatih model: Melatih model menggunakan data historis.
+
+Mengevaluasi model: Menguji keakuratan model dengan data validasi.
+
+Menerapkan model: Menyebarkan model sebagai layanan web untuk prediksi real-time atau batch.
+
+Layanan Azure Lainnya:
+Azure AI Bot Service: Digunakan untuk membuat chatbot cerdas, tidak relevan untuk prediksi penjualan.
+
+Azure AI Language: Digunakan untuk pemrosesan bahasa alami (NLP), seperti analisis sentimen atau ekstraksi informasi dari teks, tidak cocok untuk prediksi penjualan berbasis data numerik.
+
+Jadi, jawaban yang tepat adalah Azure Machine Learning. 😊
+
+2. Anda bekerja untuk suaka margasatwa dan sedang mempertimbangkan untuk menggunakan AI untuk mengidentifikasi spesies burung dari gambar. Layanan AI mana yang harus Anda gunakan untuk membuat prototipe ide Anda? 
+
+Azure AI Visual
+
+Pencarian Azure AI
+
+Azure OpenAI
+Untuk mengidentifikasi spesies burung dari gambar, layanan AI yang paling sesuai adalah Azure AI Vision (Azure AI Visual).
+
+Mengapa Azure AI Vision?
+Azure AI Vision adalah layanan yang menyediakan kemampuan computer vision untuk menganalisis gambar. Dengan layanan ini, Anda dapat:
+
+Mengenali objek dalam gambar: Mengidentifikasi burung dan fitur-fiturnya.
+
+Klasifikasi gambar: Mengklasifikasikan gambar berdasarkan spesies burung.
+
+Pelabelan otomatis: Memberikan label atau tag yang relevan pada gambar.
+
+Custom Vision: Membuat model machine learning khusus untuk mengenali spesies burung tertentu dengan melatih model menggunakan dataset gambar burung.
+
+Layanan Azure Lainnya:
+Azure AI Search: Digunakan untuk pencarian dan pengindeksan data teks atau dokumen, tidak relevan untuk analisis gambar.
+
+Azure OpenAI: Fokus pada pemrosesan bahasa alami (NLP) dan generasi teks, tidak dirancang untuk analisis gambar.
+
+Jadi, jawaban yang tepat adalah Azure AI Vision (Azure AI Visual). 😊
+
+3. Sebuah aplikasi prediktif menyediakan output audio untuk pengguna tunanetra. Prinsip AI Bertanggung Jawab mana yang tercermin di sini? 
+
+Transparansi
+
+Inklusivitas
+
+Keadilan
+Prinsip AI Bertanggung Jawab yang tercermin dalam aplikasi prediktif yang menyediakan output audio untuk pengguna tunanetra adalah Inklusivitas.
+
+Mengapa Inklusivitas?
+Inklusivitas dalam AI berarti memastikan bahwa teknologi dapat diakses dan bermanfaat bagi semua orang, termasuk kelompok yang sering terabaikan seperti penyandang disabilitas. Dengan menyediakan output audio, aplikasi ini memastikan bahwa pengguna tunanetra dapat mengakses dan memanfaatkan teknologi tersebut, sehingga mencerminkan prinsip inklusivitas.
+
+Prinsip Lainnya:
+Transparansi: Berfokus pada keterbukaan tentang bagaimana sistem AI bekerja dan membuat keputusan. Ini tidak secara langsung terkait dengan penyediaan output audio.
+
+Keadilan: Berfokus pada memastikan bahwa sistem AI tidak bias dan adil bagi semua pengguna. Meskipun penting, ini bukan prinsip utama yang tercermin dalam kasus ini.
+
+Jadi, jawaban yang tepat adalah Inklusivitas. 😊
