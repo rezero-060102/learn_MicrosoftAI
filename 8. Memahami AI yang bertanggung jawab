@@ -1,0 +1,81 @@
+Lompati ke konten utama
+Learn
+Masuk
+Learn  Pelatihan  Telusuri  Konsep AI Dasar 
+8 unit dari 10
+Memahami AI yang bertanggung jawab
+Selesai
+100 XP
+10 menit
+Di Microsoft, pengembangan perangkat lunak AI dipandu oleh serangkaian enam prinsip, yang dirancang untuk memastikan aplikasi AI memberikan solusi luar biasa untuk masalah yang sulit tanpa konsekuensi negatif yang tidak diinginkan.
+
+Keadilan
+Sistem AI harus memperlakukan semua orang secara adil. Misalnya, anggap Anda membuat model pembelajaran mesin untuk mendukung aplikasi persetujuan pinjaman untuk bank. Model harus memprediksi apakah pinjaman harus disetujui atau ditolak tanpa bias. Bias ini dapat didasarkan pada jenis kelamin, etnis, atau faktor lain yang menghasilkan keuntungan atau kerugian yang tidak adil bagi kelompok pelamar tertentu.
+
+Azure Machine Learning mencakup kemampuan untuk menafsirkan model dan mengukur sejauh mana setiap fitur data memengaruhi prediksi model. Kemampuan ini membantu ilmuwan dan pengembang data mengidentifikasi dan mengurangi bias dalam model.
+
+Contoh lain adalah implementasi Microsoft dari AI yang Bertanggung Jawab dengan Layanan Wajah, yang menghentikan kemampuan pengenalan wajah yang dapat digunakan untuk mencoba menyimpulkan status emosional dan atribut identitas. Kemampuan ini, jika disalahgunakan, dapat membuat orang tunduk pada stereotip, diskriminasi, atau penolakan layanan yang tidak adili.
+
+Untuk detail selengkapnya tentang pertimbangan untuk keadilan, tonton video berikut.
+
+
+Keandalan dan keamanan
+Sistem AI harus berperforma andal dan aman. Misalnya, pertimbangkan sistem perangkat lunak berbasis AI untuk kendaraan otonom; atau model pembelajaran mesin yang mendiagnosis gejala pasien dan merekomendasikan resep. Ketidakandalan dalam sistem semacam ini dapat mengakibatkan risiko besar bagi kehidupan manusia.
+
+Pengembangan aplikasi perangkat lunak berbasis AI harus tunduk pada pengujian yang ketat dan proses manajemen penyebaran untuk memastikan aplikasi berfungsi seperti yang diharapkan sebelum rilis.
+
+Untuk informasi selengkapnya tentang pertimbangan keandalan dan keamanan, tonton video berikut.
+
+
+Privasi dan keamanan
+Sistem AI harus aman dan menghormati privasi. Model pembelajaran mesin yang mendasarkan sistem AI pada data bervolume besar, yang mungkin berisi detail pribadi yang harus dijaga kerahasiaannya. Bahkan setelah model dilatih dan sistem dalam produksi, privasi dan keamanan perlu dipertimbangkan. Karena sistem menggunakan data baru untuk membuat prediksi atau mengambil tindakan, data dan keputusan yang dibuat dari data mungkin tunduk pada masalah privasi atau keamanan.
+
+Untuk detail selengkapnya tentang pertimbangan privasi dan keamanan, tonton video berikut.
+
+
+Inklusivitas
+Sistem AI harus memberdayakan semua orang dan melibatkan orang. AI harus membawa manfaat bagi seluruh lapisan masyarakat, terlepas dari kemampuan fisik, jenis kelamin, orientasi seksual, etnis, atau faktor lainnya.
+
+Untuk detail selengkapnya tentang pertimbangan inklusivitas, tonton video berikut.
+
+
+Transparansi
+Sistem AI harus dapat dipahami. Pengguna harus menyadari sepenuhnya tujuan sistem, cara kerjanya, dan batasan apa yang mungkin diharapkan.
+
+Untuk detail selengkapnya tentang pertimbangan transparansi, tonton video berikut.
+
+
+Akuntabilitas
+Orang harus bertanggung jawab atas sistem AI. Perancang dan pengembang solusi berbasis AI harus bekerja dalam kerangka kerja pemerintahan dan prinsip organisasi yang memastikan solusi memenuhi standar etika dan hukum yang jelas.
+
+Untuk detail selengkapnya tentang pertimbangan akuntabilitas, tonton video berikut.
+
+
+Prinsip-prinsip AI yang bertanggung jawab dapat membantu Anda memahami beberapa tantangan yang dihadapi pengembang saat mereka mencoba menciptakan solusi AI yang pantas.
+
+Sumber daya selengkapnya
+Untuk sumber daya lainnya yang dapat digunakan untuk membantu Anda mempraktikkan prinsip-prinsip AI yang bertanggung jawab, lihat https://www.microsoft.com/ai/responsible-ai-resources.
+
+Untuk melihat kebijakan ini dalam tindakan, Anda dapat membaca Kerangka kerja Microsoft untuk membangun sistem AI secara bertanggung jawab.
+
+Unit berikutnya: Uji pengetahuan
+Sebelumnya
+ 
+Berikutnya
+
+Butuh bantuan? Lihat panduan pemecahan masalah kami atau berikan umpan balik spesifik dengan melaporkan masalah.
+Saran dan Komentar
+Apakah halaman ini membantu?
+
+Ya
+Tidak
+Bahasa Indonesia
+Pilihan Privasi Anda
+Tema
+Versi Sebelumnya
+Blog
+Berikan kontribusi
+Privasi
+Persyaratan Penggunaan
+Merek Dagang
+© Microsoft 2025
