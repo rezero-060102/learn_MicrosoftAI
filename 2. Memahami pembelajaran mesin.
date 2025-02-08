@@ -1,0 +1,31 @@
+Pembelajaran Mesin adalah fondasi untuk sebagian besar solusi AI. Sejak tahun 1950-an, para peneliti, sering dikenal sebagai ilmuwan data, telah bekerja pada pendekatan yang berbeda untuk AI. Sebagian besar aplikasi modern AI memiliki asal-usul mereka dalam pembelajaran mesin, cabang AI yang menggabungkan ilmu komputer dan matematika.
+
+Mari kita mulai dengan melihat contoh dunia nyata tentang bagaimana pembelajaran mesin dapat digunakan untuk memecahkan masalah yang sulit.
+
+Teknik pertanian berkelanjutan sangat penting untuk memaksimalkan produksi pangan sekaligus melindungi lingkungan yang rapuh. Yield, perusahaan teknologi pertanian yang berbasis di Australia, menggunakan sensor, data, dan pembelajaran mesin untuk membantu petani membuat keputusan berdasarkan informasi terkait kondisi cuaca, tanah, dan tanaman.
+
+Tonton video berikut untuk mempelajari selengkapnya.
+
+Cara kerja pembelajaran mesin
+Jadi, bagaimana mesin belajar?
+
+Jawabannya adalah, dari data. Di dunia saat ini, kita membuat data dalam jumlah besar saat kita menjalani kehidupan sehari-hari. Mulai dari pesan teks, surel, dan kiriman media sosial yang kita kirim untuk foto dan video yang kita ambil di ponsel, kita menghasilkan sejumlah besar informasi. Lebih banyak data masih dibuat oleh jutaan sensor di rumah kita, mobil, kota, infrastruktur transportasi umum, dan pabrik.
+
+Ilmuwan data dapat menggunakan seluruh data tersebut untuk melatih model pembelajaran mesin yang dapat membuat prediksi dan kesimpulan berdasarkan hubungan yang mereka temukan dalam data.
+
+Model pembelajaran mesin mencoba menangkap hubungan antara data. Misalnya, organisasi konservasi lingkungan ingin sukarelawan mengidentifikasi dan membuat katalog spesies bunga liar yang berbeda menggunakan aplikasi ponsel. Animasi berikut menunjukkan bagaimana pembelajaran mesin dapat digunakan untuk mengaktifkan skenario ini.
+
+Tim ahli botani dan ilmuwan mengumpulkan data tentang sampel bunga liar.
+Tim melabeli sampel dengan spesies yang benar.
+Data berlabel diproses menggunakan algoritma yang menemukan hubungan antara fitur sampel dan spesies berlabel.
+Hasil algoritma dirangkum dalam model.
+Ketika sampel baru ditemukan oleh sukarelawan, model dapat mengidentifikasi label spesies yang benar.
+Pendekatan ke AI memiliki tingkat lanjut untuk menyelesaikan tugas dengan kompleksitas yang jauh lebih besar. Model kompleks ini membentuk dasar kemampuan AI.
+
+Pembelajaran mesin di Microsoft Azure
+Microsoft Azure menyediakan layanan Azure Machine Learning - platform berbasis cloud untuk membuat, mengelola, dan menerbitkan model pembelajaran mesin. Azure Pembelajaran Mesin Studio menawarkan beberapa pengalaman penulisan seperti:
+
+Pembelajaran mesin otomatis: fitur ini memungkinkan non-ahli untuk dengan cepat membuat model pembelajaran mesin yang efektif dari data.
+Perancang Azure Pembelajaran Mesin: antarmuka grafis yang memungkinkan pengembangan tanpa kode solusi pembelajaran mesin.
+Visualisasi metrik data: menganalisis dan mengoptimalkan eksperimen Anda dengan visualisasi.
+Notebook: tulis dan jalankan kode Anda sendiri di server Jupyter Notebook terkelola yang terintegrasi langsung di studio.
