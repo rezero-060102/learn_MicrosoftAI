@@ -1,0 +1,14 @@
+Kecerdasan Dokumen adalah area AI yang berkaitan dengan pengelolaan, pemrosesan, dan penggunaan volume tinggi dari berbagai data yang ditemukan dalam formulir dan dokumen. Kecerdasan dokumen memungkinkan Anda membuat perangkat lunak yang dapat mengotomatiskan pemrosesan untuk kontrak, dokumen kesehatan, formulir keuangan, dan banyak lagi
+
+Kecerdasan dokumen di Microsoft Azure
+Anda dapat menggunakan Kecerdasan Dokumen Azure AI Microsoft untuk membangun solusi yang mengelola dan mempercepat pengumpulan data dari dokumen yang dipindai. Fitur Azure AI Document Intelligence membantu mengotomatiskan pemrosesan dokumen dalam aplikasi dan alur kerja, meningkatkan strategi berbasis data, dan memperkaya kemampuan pencarian dokumen. Anda dapat menggunakan model bawaan untuk menambahkan pemrosesan dokumen cerdas untuk faktur, tanda terima, kartu asuransi kesehatan, formulir pajak, dan banyak lagi. Anda juga dapat menggunakan Azure AI Document Intelligence untuk membuat model kustom dengan himpunan data berlabel Anda sendiri. Fitur layanan tersedia untuk digunakan dan diuji di Studio Kecerdasan Dokumen dan bahasa pemrograman lainnya.
+
+Cuplikan layar Studio Kecerdasan Dokumen dengan mulai cepat di layar.
+
+Penambangan Pengetahuan
+Penambangan pengetahuan adalah istilah yang digunakan untuk menggambarkan solusi yang melibatkan ekstraksi informasi dari volume besar data yang sering tidak terstruktur untuk membuat penyimpanan pengetahuan yang dapat dicari.
+
+Penggalian pengetahuan di Microsoft Azure
+Salah satu solusi penambangan pengetahuan Microsoft adalah Azure AI Search, solusi pencarian privat, perusahaan, yang memiliki alat untuk membangun indeks. Indeks kemudian dapat digunakan untuk penggunaan internal saja, atau untuk mengaktifkan konten yang dapat dicari di aset internet yang dapat diakses publik.
+
+Azure AI Search dapat menggunakan kemampuan AI bawaan layanan Azure AI seperti pemrosesan gambar, kecerdasan dokumen, dan pemrosesan bahasa alami untuk mengekstrak data. Kemampuan AI produk memungkinkan mengindeks dokumen yang sebelumnya tidak dapat ditelusuri dan untuk mengekstrak dan memunculkan wawasan dari sejumlah besar data dengan cepat.
