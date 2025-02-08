@@ -1,0 +1,34 @@
+Computer Vision adalah area AI yang berkaitan dengan pemrosesan visual. Mari kita jelajahi beberapa kemungkinan yang dihadirkan visi komputer.
+
+Aplikasi Seeing AI adalah contoh yang bagus dari kemampuan visi komputer. Dirancang untuk komunitas buta dan low vision, aplikasi Seeing AI memanfaatkan kemampuan AI untuk membuka dunia visual dan menggambarkan orang, teks, serta objek terdekat.
+
+Lihat video berikut untuk mempelajari selengkapnya tentang Seeing AI.
+
+
+Untuk mencari tahu selengkapnya, lihat halaman web Seeing AI.
+
+Model dan kemampuan Computer Vision
+Sebagian besar solusi visi komputer didasarkan pada model pembelajaran mesin yang dapat diterapkan pada input visual dari kamera, video, atau gambar. Tabel berikut menjelaskan tugas visi komputer umum.
+
+
+Luaskan tabel
+Tugas	Deskripsi
+Klasifikasi gambar	An image of a taxi with the label 
+Klasifikasi gambar melibatkan pelatihan model pembelajaran mesin untuk mengklasifikasikan gambar berdasarkan kontennya. Misalnya, dalam solusi pemantauan lalu lintas, Anda dapat menggunakan model klasifikasi gambar untuk mengklasifikasikan gambar berdasarkan jenis kendaraan yang di dalamnya, seperti taksi, bus, pengendara sepeda, dan sebagainya.
+Deteksi objek	An image of a street with buses, cars, and cyclists identified and highlighted with a bounding box.
+Model pembelajaran mesin deteksi objek dilatih untuk mengklasifikasikan objek individu dalam gambar, dan mengidentifikasi lokasinya dengan kotak pembatas. Misalnya, solusi pemantauan lalu lintas dapat menggunakan deteksi objek untuk mengidentifikasi lokasi berbagai kelas kendaraan.
+Segmentasi semantik	An image of a street with the pixels belonging to buses, cars, and cyclists identified.
+Segmentasi semantik adalah teknik pembelajaran mesin tingkat lanjut tempat piksel individu dalam gambar diklasifikasikan sesuai dengan objek tempatnya berada. Misalnya, solusi pemantauan lalu lintas dapat melapisi gambar lalu lintas dengan lapisan "masker" untuk menyoroti kendaraan yang berbeda menggunakan warna tertentu.
+Analisis gambar	An image of a person with a dog on a street and the caption 
+Anda dapat membuat solusi yang menggabungkan model pembelajaran mesin dengan teknik analisis gambar tingkat lanjut untuk mengekstrak informasi dari gambar, termasuk "tanda" yang dapat membantu membuat katalog gambar atau bahkan keterangan deskriptif yang meringkas adegan yang ditunjukkan pada gambar.
+Deteksi, analisis, dan pengenalan wajah	An image of multiple people on a city street with their faces highlighted.
+Deteksi wajah adalah bentuk khusus deteksi objek yang menemukan wajah manusia dalam gambar. Layanan ini dapat dikombinasikan dengan klasifikasi dan teknik analisis geometri wajah untuk mengenali individu berdasarkan fitur wajah mereka.
+Pengenalan Karakter Optik (OCR)	An image of a building with the sign 
+Pengenalan karakter optik adalah teknik yang digunakan untuk mendeteksi dan membaca teks dalam gambar. Anda dapat menggunakan OCR untuk membaca teks dalam foto (misalnya, rambu jalan atau bagian depan toko) atau untuk mengekstrak informasi dari dokumen yang dipindai seperti surat, faktur, atau formulir.
+Layanan visi komputer di Microsoft Azure
+Anda dapat menggunakan Azure AI Vision Microsoft untuk mengembangkan solusi visi komputer. Fitur layanan tersedia untuk digunakan dan diuji di Azure Vision Studio dan bahasa pemrograman lainnya. Beberapa fitur Azure AI Vision meliputi:
+
+Analisis Gambar: kemampuan untuk menganalisis gambar dan video, dan mengekstrak deskripsi, tag, objek, dan teks.
+Wajah: kemampuan yang memungkinkan Anda membangun deteksi wajah dan solusi pengenalan wajah.
+Pengenalan Karakter Optik (OCR): kemampuan untuk mengekstrak teks cetak atau tulisan tangan dari gambar, memungkinkan akses ke versi digital teks yang dipindai.
+Unit berikutnya: Memahami pemrosesan bahasa alami
