@@ -1,0 +1,40 @@
+
+Menjelaskan model berbasis penggunaan
+Selesai
+100 XP
+3 menit
+Saat membandingkan model infrastruktur TI, ada dua jenis biaya yang perlu dipertimbangkan. Pengeluaran modal (CapEx) dan pengeluaran operasional (OpEx).
+
+CapEx biasanya merupakan pengeluaran satu kali di muka untuk membeli atau mengamankan sumber daya yang ada. Membangun gedung baru, memperbaiki lahan parkir, membangun pusat data, atau membeli kendaraan perusahaan adalah contoh dari CapEx.
+
+Sebaliknya, OpEx menghabiskan uang untuk layanan atau produk dari waktu ke waktu. Menyewa pusat konvensi, menyewa kendaraan perusahaan, atau mendaftar ke layanan cloud adalah contoh OpEx.
+
+Komputasi cloud termasuk bagian dari OpEx karena komputasi cloud beroperasi pada model berbasis penggunaan. Dengan komputasi cloud, Anda tidak perlu membayar infrastruktur fisik, listrik, keamanan, atau apa pun yang terkait dengan memelihara pusat data. Sebaliknya, Anda membayar untuk sumber daya TI yang Anda gunakan. Jika Anda tidak menggunakan sumber daya TI apa pun bulan ini, Anda tidak membayar sumber daya TI apa pun.
+
+Model berbasis penggunaan ini memiliki banyak keuntungan, antara lain:
+
+Tidak ada biaya di muka.
+Tidak perlu membeli dan mengelola infrastruktur mahal yang mungkin tidak digunakan pengguna secara maksimal.
+Kemampuan untuk membayar lebih banyak sumber daya saat dibutuhkan.
+Kemampuan untuk berhenti membayar sumber daya yang tidak lagi dibutuhkan.
+Dengan pusat data tradisional, Anda mencoba memperkirakan kebutuhan sumber daya di masa mendatang. Jika Anda memperkirakan secara berlebihan, Anda menghabiskan lebih banyak biaya untuk pusat data daripada yang Anda butuhkan dan berpotensi membuang-buang uang. Jika Anda memperkirakan kebutuhan pusat data yang sedikit, pusat data Anda akan dengan cepat mencapai kapasitas dan aplikasi serta layanan Anda mungkin mengalami penurunan performa. Memperbaiki pusat data yang tidak tersedia dapat memakan waktu lama. Anda mungkin perlu memesan, menerima, dan menginstal lebih banyak perangkat keras. Anda juga perlu menambahkan daya, pendinginan, dan jaringan untuk perangkat keras tambahan.
+
+Dalam model berbasis cloud, Anda tidak perlu khawatir untuk mendapatkan kebutuhan sumber daya yang tepat. Jika Anda merasa membutuhkan lebih banyak mesin virtual, Anda dapat menambahkan lebih banyak mesin virtual. Jika permintaan menurun dan Anda tidak membutuhkan banyak mesin virtual, Anda dapat menghapus mesin sesuai kebutuhan. Bagaimanapun juga, Anda hanya membayar untuk mesin virtual yang Anda gunakan, bukan “kapasitas ekstra” yang dimiliki penyedia cloud.
+
+Membandingkan model harga cloud
+Komputasi cloud adalah pengiriman layanan komputasi melalui internet dengan menggunakan model harga prabayar. Anda biasanya hanya membayar untuk layanan cloud yang Anda gunakan, yang membantu Anda:
+
+Rencanakan dan kelola biaya operasional Anda.
+Menjalankan infrastruktur dengan lebih efisien.
+Menskalakan saat bisnis perlu berubah.
+Dengan kata lain, komputasi cloud adalah cara tepat untuk menyewa daya komputasi dan penyimpanan dari pusat data orang lain. Anda dapat memperlakukan sumber daya cloud seperti sumber daya di pusat data Anda sendiri. Namun, tidak seperti di pusat data Anda sendiri, setelah selesai menggunakan sumber daya cloud, Anda mengembalikannya. Anda hanya ditagih untuk apa yang Anda gunakan.
+
+Alih-alih menyimpan CPU dan penyimpanan di pusat data Anda, Anda menyewanya selama yang Anda butuhkan. Penyedia cloud mengurus pemeliharaan infrastruktur yang mendasarinya untuk Anda. Cloud memungkinkan Anda menyelesaikan tantangan bisnis terberat Anda dengan cepat dan menghadirkan solusi mutakhir bagi pengguna Anda.
+
+Unit berikutnya: Uji pengetahuan
+Sebelumnya
+ 
+Berikutnya
+
+
+
