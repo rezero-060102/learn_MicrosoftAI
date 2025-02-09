@@ -1,0 +1,51 @@
+Lompati ke konten utama
+Learn
+Masuk
+ Microsoft Azure Fundamentals: Menjelaskan konsep cloud  Menjelaskan komputasi cloud 
+4 unit dari 8
+Menjelaskan model tanggung jawab bersama
+Selesai
+100 XP
+3 menit
+Anda mungkin pernah mendengar tentang model tanggung jawab bersama, tetapi Anda mungkin tidak mengerti apa yang dimaksud dengan model tanggung jawab bersama atau bagaimana pengaruhnya terhadap komputasi cloud.
+
+Mulai dengan pusat data perusahaan tradisional. Perusahaan bertanggung jawab untuk memelihara ruang fisik, memastikan keamanan, dan memelihara atau mengganti server jika terjadi sesuatu. Departemen TI bertanggung jawab untuk memelihara semua infrastruktur dan perangkat lunak yang diperlukan agar pusat data tetap aktif dan berjalan. Departemen TI juga cenderung bertanggung jawab untuk menjaga semua sistem ditambal dan pada versi yang benar.
+
+Dengan model tanggung jawab bersama, tanggung jawab ini dibagi antara penyedia cloud dan konsumen. Keamanan fisik, daya, pendinginan, dan konektivitas jaringan adalah tanggung jawab penyedia cloud. Konsumen tidak ditempatkan di pusat data, jadi tidak masuk akal bagi konsumen untuk memiliki tanggung jawab tersebut.
+
+Pada saat yang sama, konsumen bertanggung jawab atas data dan informasi yang disimpan di cloud. (Anda tidak ingin penyedia cloud dapat membaca informasi Anda.) Konsumen juga bertanggung jawab atas keamanan akses, artinya Anda hanya memberikan akses kepada mereka yang membutuhkannya.
+
+Kemudian, untuk beberapa hal, tanggung jawab bergantung pada situasi. Jika Anda menggunakan database SQL cloud, penyedia cloud akan bertanggung jawab untuk memelihara database yang sebenarnya. Namun, Anda tetap bertanggung jawab atas data yang diserap ke dalam database. Jika Anda menyebarkan mesin virtual dan menginstal database SQL di dalamnya, Anda akan bertanggung jawab atas patch dan pembaruan database, serta memelihara data dan informasi yang disimpan dalam database.
+
+Dengan pusat data lokal, Anda bertanggung jawab atas segalanya. Dengan komputasi cloud, tanggung jawab tersebut beralih. Model tanggung jawab bersama sangat terikat dengan jenis layanan cloud (dibahas nanti dalam jalur pembelajaran ini): infrastruktur sebagai layanan (IaaS), platform as a service (PaaS), dan software as a service (SaaS). IaaS menempatkan tanggung jawab paling besar pada konsumen, dengan penyedia cloud yang bertanggung jawab atas dasar-dasar keamanan fisik, daya, dan konektivitas. Di satu sisi lainnya, SaaS menempatkan sebagian besar tanggung jawab dengan penyedia cloud. PaaS, sebagai jalan tengah antara IaaS dan SaaS, berada di tengah-tengah dan mendistribusikan tanggung jawab secara merata antara penyedia cloud dan konsumen.
+
+Diagram berikut menyoroti bagaimana Model Tanggung Jawab Bersama menginformasikan siapa yang bertanggung jawab atas bagian tertentu, bergantung pada jenis layanan cloud.
+
+Diagram showing the responsibilities of the shared responsibility model.
+
+Saat menggunakan penyedia cloud, Anda akan selalu bertanggung jawab untuk:
+
+Informasi dan data yang disimpan di cloud
+Perangkat yang diizinkan untuk terhubung ke cloud Anda (ponsel, komputer, dan sebagainya)
+Akun dan identitas orang, layanan, dan perangkat dalam organisasi Anda
+Penyedia cloud selalu bertanggung jawab untuk:
+
+Pusat data fisik
+Jaringan fisik
+Host fisik
+Model layanan Anda akan menentukan tanggung jawab untuk hal-hal seperti:
+
+Sistem operasi
+Kontrol jaringan
+Aplikasi
+Identitas dan infrastruktur
+Unit berikutnya: Menentukan model cloud
+Sebelumnya
+ 
+Berikutnya
+
+Butuh bantuan? Lihat panduan pemecahan masalah kami atau berikan umpan balik spesifik dengan melaporkan masalah.
+Saran dan Komentar
+Apakah halaman ini membantu?
+
+
