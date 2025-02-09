@@ -1,0 +1,38 @@
+
+Menentukan model cloud
+Selesai
+100 XP
+4 menit
+Apa itu model cloud? Model cloud menentukan jenis penyebaran sumber daya cloud. Tiga model cloud utama adalah: privat, publik, dan hibrid.
+
+Cloud privat
+Mari kita mulai dengan cloud privat. Cloud privat, dalam beberapa hal, merupakan evolusi alami dari pusat data perusahaan. Ini adalah cloud (memberikan layanan TI melalui internet) yang digunakan oleh satu entitas. Cloud privat memberikan kontrol yang jauh lebih besar untuk perusahaan dan departemen TI perusahaan. Namun, cloud privat juga memerlukan biaya yang lebih besar dan lebih sedikit keuntungan dari penyebaran cloud publik. Terakhir, cloud privat dapat dihosting dari pusat data di situs Anda. Cloud privat juga dapat dihosting di pusat data khusus di luar situs, bahkan dapat dilakukan oleh pihak ketiga yang telah menyediakan pusat data tersebut untuk perusahaan Anda.
+
+Cloud publik
+Cloud publik dibangun, dikontrol, dan dikelola oleh penyedia cloud pihak ketiga. Dengan cloud publik, siapa pun yang ingin membeli layanan cloud dapat mengakses dan menggunakan sumber daya. Ketersediaan publik secara umum adalah perbedaan utama antara cloud publik dan privat.
+
+Cloud hibrid
+Cloud hibrid adalah lingkungan komputasi yang menggunakan cloud publik dan privat dalam lingkungan yang saling terhubung. Lingkungan cloud hibrid dapat digunakan untuk memungkinkan cloud privat ditingkatkan untuk permintaan sementara yang meningkat dengan menyebarkan sumber daya cloud publik. Cloud hibrid dapat digunakan untuk memberikan lapisan keamanan ekstra. Misalnya, pengguna dapat secara fleksibel memilih layanan mana yang akan disimpan di cloud publik dan mana yang akan disebarkan ke infrastruktur cloud privat mereka.
+
+Tabel berikut menyoroti beberapa aspek perbandingan utama antara model cloud.
+
+Luaskan tabel
+Cloud publik	Cloud privat	Cloud hibrid
+Tidak ada pengeluaran modal untuk ditingkatkan	Organisasi memiliki kontrol penuh atas sumber daya dan keamanan	Memberikan fleksibilitas paling banyak
+Aplikasi dapat dengan cepat disediakan dan dibatalkan penyediaannya	Data tidak ditempatkan dengan data organisasi lain	Organisasi menentukan tempat menjalankan aplikasi mereka
+Organisasi hanya membayar untuk apa yang mereka gunakan	Perangkat keras harus dibeli untuk pengaktifan dan pemeliharaan	Organisasi mengontrol keamanan, kepatuhan, atau persyaratan hukum
+Organisasi tidak memiliki kontrol penuh atas sumber daya dan keamanan	Organisasi bertanggung jawab atas pemeliharaan dan pembaruan perangkat keras	
+Multi-cloud
+Skenario keempat, dan kemungkinan besar adalah skenario multi-cloud. Dalam skenario multi-cloud, Anda menggunakan beberapa penyedia cloud publik. Mungkin Anda menggunakan fitur yang berbeda dari penyedia cloud yang berbeda. Atau mungkin Anda memulai perjalanan cloud Anda dengan satu penyedia dan sedang dalam proses migrasi ke penyedia lain. Terlepas dari hal ini, dalam lingkungan multi-cloud Anda berurusan dengan dua (atau lebih) penyedia cloud publik dan mengelola sumber daya serta keamanan di kedua lingkungan.
+
+Azure Arc
+Azure Arc adalah seperangkat teknologi yang membantu mengelola lingkungan cloud Anda. Azure Arc dapat membantu mengelola lingkungan cloud Anda, baik itu cloud publik hanya di Azure, cloud privat di pusat data Anda, konfigurasi hibrid, atau bahkan lingkungan multi-cloud yang berjalan di beberapa penyedia cloud sekaligus.
+
+Azure VMware Solution
+Bagaimana jika Anda sudah menggunakan VMware di lingkungan cloud privat tetapi ingin bermigrasi ke cloud publik atau hibrid? Azure VMware Solution memungkinkan Anda menjalankan beban kerja VMware di Azure dengan integrasi dan skalabilitas yang lancar.
+
+Unit berikutnya: Menjelaskan model berbasis penggunaan
+Sebelumnya
+ 
+Berikutnya
+
