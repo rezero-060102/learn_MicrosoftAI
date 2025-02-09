@@ -1,0 +1,37 @@
+1. Apa itu komputasi cloud? 
+
+Penyediaan layanan komputasi melalui internet.
+
+Pengiriman layanan penyimpanan melalui internet.
+
+Pengiriman website yang dapat diakses melalui internet.
+Komputasi cloud (cloud computing) adalah penyediaan layanan komputasi melalui internet, termasuk penyimpanan data, server, database, jaringan, perangkat lunak, dan layanan lainnya. Ini memungkinkan pengguna untuk mengakses dan menggunakan sumber daya komputasi secara fleksibel dan efisien tanpa perlu mengelola infrastruktur fisik secara langsung.
+
+Jawaban yang paling tepat adalah:
+Penyediaan layanan komputasi melalui internet.
+
+2. Model cloud mana yang menggunakan beberapa pusat data yang berfokus pada penyediaan layanan cloud kepada siapa saja yang menginginkannya, dan beberapa pusat data yang berfokus pada satu pelanggan? 
+
+Cloud publik
+
+Cloud hibrid
+
+Multicloud
+Model cloud yang menggunakan beberapa pusat data yang berfokus pada penyediaan layanan cloud kepada siapa saja yang menginginkannya (cloud publik) dan beberapa pusat data yang berfokus pada satu pelanggan (cloud privat) adalah cloud hibrid.
+
+Jawaban yang tepat adalah:
+Cloud hibrid.
+
+3. Menurut model tanggung jawab bersama, jenis layanan cloud mana yang menempatkan tanggung jawab paling besar pada pelanggan? 
+
+Infrastruktur sebagai Layanan (IaaS)
+
+Software as a Service (SaaS)
+
+Platform as a Service (PaaS)
+Menurut model tanggung jawab bersama (shared responsibility model), jenis layanan cloud yang menempatkan tanggung jawab paling besar pada pelanggan adalah Infrastruktur sebagai Layanan (IaaS).
+
+Dalam IaaS, penyedia cloud bertanggung jawab atas infrastruktur fisik (seperti server, jaringan, dan penyimpanan), sementara pelanggan bertanggung jawab untuk mengelola sistem operasi, aplikasi, data, keamanan, dan konfigurasi lainnya.
+
+Jawaban yang tepat adalah:
+Infrastruktur sebagai Layanan (IaaS).
